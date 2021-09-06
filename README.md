@@ -6,8 +6,18 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## languages
--- a
+## Languages
+- Ruby
+- PowerShell
+- Python
+- VBA
+- JavaScript
+- Minecraft Function
+- JSON
+- HTML
+- CSS
+
+
 ```PowerShell
 Get-Date -Uformat "%d"
 ```
