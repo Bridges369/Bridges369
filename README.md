@@ -1,5 +1,6 @@
 # Hi!
 ## how make a readme? :3
+- I donn't know english... >:(
 - 👋 Hi, I’m @Bridges369
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
