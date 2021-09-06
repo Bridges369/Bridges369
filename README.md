@@ -1,11 +1,11 @@
 # Hi!
 ## how make a readme? :3
 - I don't know english... >:(
-- 👋 Hi, I’m @Bridges369
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m <b>@Bridges369</b>
+- 👀 I’m interested in aprender <b>Ruby e Ruby On Rails</b>
+- 🌱 I’m currently learning <b>Ruby e como usar o GitHub (principalmente Git no PowerShell. Mas não estou entendendo bulhufas '-')</b>
+- 💞️ I’m looking to collaborate on <b>tirar o lixo de casa (mas nem sempre ,_,)</b>
+- 📫 How to reach me... <b>quê?</b>
 
 ## Languages
 - Ruby
