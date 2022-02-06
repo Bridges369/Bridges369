@@ -19,8 +19,10 @@
 - CSS
 
 
-```PowerShell
-Get-Date -Uformat "%d"
+```Ruby
+class Coffe
+  attr_acessor :milk_value :coffe_powder :recipe_value :water_value
+end
 ```
 <!---
 Bridges369/Bridges369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
