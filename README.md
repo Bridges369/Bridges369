@@ -1,29 +1,19 @@
 # Hi!
-## how make a readme? :3
-- I don't know english... >:(
-- 👋 Hi, I’m <b>@Bridges369</b>
-- 👀 I’m interested in <b>aprender Ruby e Ruby On Rails</b>
-- 🌱 I’m currently learning <b>Ruby e como usar o GitHub (principalmente Git no PowerShell. Mas não estou entendendo bulhufas '-')</b>
-- 💞️ I’m looking to collaborate on <b>tirar o lixo de casa (mas nem sempre ,_,)</b>
-- 📫 How to reach me... <b>sou do Brasilsilsilllllllll</b>
+- I don't know english very well;
+- 👋 Hi, I’m <b>@Bridges369</b>;
+- 👀 I’m interested in <b>learn Ruby On Rails and languages like Ruby and Rust</b>;
+- 🌱 I’m currently learning <b>Ruby</b>
+- 💞️ I’m looking to collaborate on <b>nothing for now</b>;
+- 📫 How to reach me... <b>lucasbridges.god@gmail.com</b>.
 
 ## Languages
 - Ruby
 - PowerShell
-- Python
-- VBA
-- JavaScript
-- Minecraft Function
+- Minecraft Functions
 - JSON
 - HTML
 - CSS
 
-
-```Ruby
-class Coffe
-  attr_acessor :milk_value :coffe_powder :recipe_value :water_value
-end
-```
 <!---
 Bridges369/Bridges369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
