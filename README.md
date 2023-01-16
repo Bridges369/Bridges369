@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on <b>nothing for now</b>;
 - 📫 How to reach me... <b>lucasbridges.god@gmail.com</b>.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bridges369&count_private=true&show_icons=true&theme=nord&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bridges369)](https://github.com/Bridges369)
+
+<!--
 ## Languages
 - Ruby
 - PowerShell
@@ -13,7 +17,7 @@
 - JSON
 - HTML
 - CSS
-
+-->
 <!---
 Bridges369/Bridges369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
