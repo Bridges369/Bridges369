@@ -4,7 +4,6 @@
 - 👀 I’m interested in <b>learn Ruby On Rails and languages like Ruby and Rust</b>;
 - 🌱 I’m currently learning <b>Ruby</b>
 - 💞️ I’m looking to collaborate on <b>nothing for now</b>;
-- 📫 How to reach me... <b>lucasbridges.god@gmail.com</b>.
 
 ## My contacts:
 
