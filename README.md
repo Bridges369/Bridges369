@@ -7,7 +7,7 @@
 
 ## My contacts:
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bridges369)
+<!-- [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bridges369) -->
 [![Bridges369#7358](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:lucasbridges.god@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pontes-de-andrade)
