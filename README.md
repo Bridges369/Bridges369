@@ -1,7 +1,7 @@
 # Hi!
 - I don't know english very well;
 - 👋 Hi, I’m <b>@Bridges369</b>;
-- 👀 I’m interested in <b>learn Ruby On Rails and languages like Ruby and Rust</b>;
+- 👀 I’m interested in <b>Ruby and... Ruby</b>;
 - 🌱 I’m currently learning <b>Ruby</b>
 - 💞️ I’m looking to collaborate on <b>nothing for now</b>;
 
